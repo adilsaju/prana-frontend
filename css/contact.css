@@ -1,0 +1,12 @@
+body{
+    	/* background: rgb(255, 157, 9); */
+	background: rgb(255,157,9);
+    background: linear-gradient(90deg, rgba(255,157,9,1) 32%, rgba(255,0,250,1) 100%);
+}
+.blah{
+    height: 1000px;
+}
+
+.current-page>a{
+font-weight: bold;
+}
